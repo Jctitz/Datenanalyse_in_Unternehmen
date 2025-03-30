@@ -68,7 +68,7 @@ Zusätzlich wird untersucht, ob Machine-Learning-Modelle für die Klassifikation
 ## Kommentare zu zusätzlichen Dateien
 
 - `Formeln_Glossar.pdf`: Enthält die Definitionen und Formeln der verwendeten Kennzahlen – dient als fachliche Grundlage aus dem Unternehmen.
-- `Präsentation_Datenanalyse_in_Unternehmen.pptx`: Präsentation aus der Vorlesung.
+- `Präsentation_Datenanalyse_in_Unternehmen.pptx`: Präsentation aus der Vorlesung. (Die Anmerkungen nach der Präsentation wurden noch mit eingearbeitet)
 
 ---
 
